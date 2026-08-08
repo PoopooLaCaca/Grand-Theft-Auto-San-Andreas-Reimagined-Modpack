@@ -146,7 +146,10 @@ I was only 14 years old at the time. Now I'm 19, and looking back, I realize jus
  Essential for those who wanna enhance the game and love FPS games.
 
  ## More Forests in San Andreas: https://www.moddb.com/mods/more-trees-in-san-andreas-reloaded/downloads/more-forests-in-san-andreas-reloaded-v31-lod-hotfix
- It does exactly what you think it does. For real though it just adds a lot more trees to the Los Santos, Countryside, and San Fierro Regions. Does add a tree on the side of the road though by the trucking missions. So I kept it optional. 
+It does exactly what you think it does. For real though it just adds a lot more trees to the Los Santos, Countryside, and San Fierro Regions. Does add a tree on the side of the road though by the trucking missions. So I kept it optional. 
+
+ ## VehDeform: https://zzpumazone.blogspot.com/2025/06/vehdeform-10-dynamic-vehicle-deformation.html
+ I remember getting a crash during very specific situations, but it's a very great mod to check out. 
 
  # IMPORTANT!!!
  - If you don't like to read, too bad you're going to have to or your game will not work.
