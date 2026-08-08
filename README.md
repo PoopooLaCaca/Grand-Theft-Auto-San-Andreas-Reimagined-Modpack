@@ -168,7 +168,7 @@ I was only 14 years old at the time. Now I'm 19, and looking back, I realize jus
 
 # Disclaimers
 - If you deem the graphics to have too much bloom, too blurry, or some other reason you don't like it you may remove nano shaders.
-- If you'd also like to use this modpack and use it for content, please give credit. it's the least you can do and it's highly disrespectful to claim someone elses work as your own. For example
+- If you'd also like to use this modpack and use it for content, please give credit and don't gatekeep. It's the least you can do and it's highly disrespectful to claim someone elses work as your own. For example
 <img width="1214" height="926" alt="Screenshot 2026-08-07 233448" src="https://github.com/user-attachments/assets/53f82532-82ee-4e83-b886-ac2a15ae284c" />
 Dont be like that guy and pretend this is your own modpack and gatekeep from others. Thank you :)
 
