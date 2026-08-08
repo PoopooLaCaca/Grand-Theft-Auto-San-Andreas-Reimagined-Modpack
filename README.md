@@ -114,6 +114,13 @@ I was only 14 years old at the time. Now I'm 19, and looking back, I realize jus
 - Welcome Las Venturas Sign: https://www.gtainside.com/sanandreas/mods/119340-welcome-las-venturas-sign-remastered-final/
 - Wind Farm: https://www.mixmods.com.br/2022/09/sa-wind-farm-mod-cata-ventos-eolicos/
 
+## Other Script Mods
+
+- Money Messages: https://libertycity.net/files/gta-san-andreas/212381-money-messages.html
+- Moving Siren Lights on The Ground: https://libertycity.net/files/gta-san-andreas/213662-lights-on-the-ground-from-sirens.html
+- Bullet Spread Fix: https://www.mixmods.com.br/2018/01/spread-fix-corrigir-espalhamento-dos-tiros/
+- Full Stream Radar: https://www.mixmods.com.br/2015/01/full-stream-radar-fix-radar-sumindo/
+
 ## Cleo Mods
 
 - Buy Property: https://www.mixmods.com.br/2022/06/buy-property-mod-comprar-propriedades/
@@ -121,10 +128,30 @@ I was only 14 years old at the time. Now I'm 19, and looking back, I realize jus
 - Per Pixel Lighting: https://libertycity.net/files/gta-san-andreas/155411-perpixel-lighting-mod-dynamic-object-lighting.html
 - RZL Trainer: https://libertycity.net/files/gta-san-andreas/222412-rzl-trainer-v5-0-1-cheat-menu.html
 - San Andreas Ambient Sounds: https://gtaforums.com/topic/825069-san-andreas-ambient-sounds-saas/
-- Trucks and Trailers V4
+- Trucks and Trailers V4: https://libertycity.net/files/gta-san-andreas/139579-trailers-and-trucks-v4.html
 
  
  </details>
+
+ # Optional Mods
+ 
+ ## Storyline Improvement: https://libertycity.net/files/gta-san-andreas/232696-storyline-improvement.html
+ Remove Friendly Los Aztecas + Triads Fix if you would like to use this mod, because this mod already includes it. Make sure and check to see if any other mods in my modpack are used in this too. 
+
+ ## Project Props V 4.2: https://github.com/user-grinch/Project-Props
+ Not for me honestly, but if you'd like to use it go for it. May have a great impact performance though depending on your system specs.
+
+ # IMPORTANT!!!
+ - If you don't like to read, too bad you're going to have to or your game will not work.
+ - PLEASE, install the LOW RES VERSION OF ROSA EVOLVED. THIS MODPACK WILL NOT WORK WITHOUT IT!!!!!
+ - The link to the latest public version is right here: https://www.mediafire.com/file/ne7vf0dsxm7x2nt/RoSA+Evolved+-+May.7z/file
+ - Keep in mind this mod updates every month, you will have to update it yourself and I will leave a link to the latest public version.
+ - Also don't install proper player retex that comes with it, I have a different mod that changes CJ's apperance and clothing.
+
+# Requirements
+- A fresh copy of GTA San Andreas 
+ 
+   
 
 
 
