@@ -177,6 +177,7 @@ All the content can be found on my youtube channel here: https://www.youtube.com
 
 # Thank you!
 - Seriously thank you to the overwhelming amounts of support you guys have been giving me recently. I really appreciate it and will try to keep up with this modpack and keep personal issues away from this hobby of mine. This is my way of giving back to everyone who loves this game just as much as me. :)
+<img width="3840" height="2160" alt="GTA_ San Andreas 7_18_2026 7_40_59 PM" src="https://github.com/user-attachments/assets/7aaddcce-2104-48d1-be41-7258b71e6add" />
 
  
    
