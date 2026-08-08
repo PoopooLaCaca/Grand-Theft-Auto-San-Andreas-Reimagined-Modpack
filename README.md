@@ -114,6 +114,15 @@ I was only 14 years old at the time. Now I'm 19, and looking back, I realize jus
 - Welcome Las Venturas Sign: https://www.gtainside.com/sanandreas/mods/119340-welcome-las-venturas-sign-remastered-final/
 - Wind Farm: https://www.mixmods.com.br/2022/09/sa-wind-farm-mod-cata-ventos-eolicos/
 
+## Cleo Mods
+
+- Buy Property: https://www.mixmods.com.br/2022/06/buy-property-mod-comprar-propriedades/
+- Gangster Swat Fix: https://gtaforums.com/topic/915636-gangster-swat-fix/
+- Per Pixel Lighting: https://libertycity.net/files/gta-san-andreas/155411-perpixel-lighting-mod-dynamic-object-lighting.html
+- RZL Trainer: https://libertycity.net/files/gta-san-andreas/222412-rzl-trainer-v5-0-1-cheat-menu.html
+- San Andreas Ambient Sounds: https://gtaforums.com/topic/825069-san-andreas-ambient-sounds-saas/
+- Trucks and Trailers V4
+
  
  </details>
 
