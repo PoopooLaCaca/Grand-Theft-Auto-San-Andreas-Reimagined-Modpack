@@ -59,6 +59,7 @@ I was only 14 years old at the time. Now I'm 19, and looking back, I realize jus
 - Manual DriveBy Refixed: https://libertycity.net/files/gta-san-andreas/213857-manual-driveby-refixed.html
 - Missing Lampposts Fix: https://www.mixmods.com.br/2022/04/missing-lampposts-fix-more-light-posts/
 - MixSets: https://www.mixmods.com.br/2022/03/sa-mixsets/
+- Model Variations: https://github.com/ViperJohnGR/ModelVariations
 - More Radar Icons: https://libertycity.net/files/gta-san-andreas/218226-more-radar-icons.html
 - Nano Shaders: https://www.patreon.com/jessica_natalia/posts/nano-shaders-147911332
 - New Official Loading Themes: https://www.mixmods.com.br/2021/06/new-official-loading-themes-mais-musicas-pra-loadscreen/
@@ -141,6 +142,12 @@ I was only 14 years old at the time. Now I'm 19, and looking back, I realize jus
  ## Project Props V 4.2: https://github.com/user-grinch/Project-Props
  Not for me honestly, but if you'd like to use it go for it. May have a great impact performance though depending on your system specs.
 
+ ## Ultamite First Person: https://libertycity.net/files/gta-san-andreas/239321-ultimate-first-person-beta.html
+ Essential for those who wanna enhance the game and love FPS games.
+
+ ## More Forests in San Andreas: https://www.moddb.com/mods/more-trees-in-san-andreas-reloaded/downloads/more-forests-in-san-andreas-reloaded-v31-lod-hotfix
+ It does exactly what you think it does. For real though it just adds a lot more trees to the Los Santos, Countryside, and San Fierro Regions. Does add a tree on the side of the road though by the trucking missions. So I kept it optional. 
+
  # IMPORTANT!!!
  - If you don't like to read, too bad you're going to have to or your game will not work.
  - PLEASE, install the LOW RES VERSION OF ROSA EVOLVED. THIS MODPACK WILL NOT WORK WITHOUT IT!!!!!
@@ -149,7 +156,28 @@ I was only 14 years old at the time. Now I'm 19, and looking back, I realize jus
  - Also don't install proper player retex that comes with it, I have a different mod that changes CJ's apperance and clothing.
 
 # Requirements
-- A fresh copy of GTA San Andreas 
+- A fresh copy of GTA San Andreas downgraded to the 1.0 Hoodlum version
+- At least 12GB of storage
+- A pc that can run a decently modded game (almost any pc can run this modpack I promise, it's very performance friendly) :)
+
+# The Modpack
+- Ok all the reading is over with heres the modpack for those who were waiting to try this out themselves
+- https://drive.google.com/file/d/1UkOZrr_VQXlV4tZbDnlNryCMOkIMw5wF/view?usp=drive_link
+- To Install just drag and drop over your clean GTA SA game directory and replace files when prompted, that's it!!
+- Then after install Rosa from the important section into the modloader and everything is ready to go, simple. :)
+
+# Disclaimers
+- If you deem the graphics to have too much bloom, too blurry, or some other reason you don't like it you may remove nano shaders.
+- If you'd also like to use this modpack and use it for content, please give credit. it's the least you can do and it's highly disrespectful to claim someone elses work as your own. For example
+<img width="1214" height="926" alt="Screenshot 2026-08-07 233448" src="https://github.com/user-attachments/assets/53f82532-82ee-4e83-b886-ac2a15ae284c" />
+Dont be like that guy and pretend this is your own modpack and gatekeep from others. Thank you :)
+
+# Gameplay Footage
+All the content can be found on my youtube channel here: https://www.youtube.com/@Frushsnacks
+
+# Thank you!
+- Seriously thank you to the overwhelming amounts of support you guys have been giving me recently. I really appreciate it and will try to keep up with this modpack and keep personal issues away from this hobby of mine. This is my way of giving back to everyone who loves this game just as much as me. :)
+
  
    
 
