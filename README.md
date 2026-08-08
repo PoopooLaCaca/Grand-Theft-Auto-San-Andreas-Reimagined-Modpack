@@ -137,7 +137,7 @@ I was only 14 years old at the time. Now I'm 19, and looking back, I realize jus
  # Optional Mods
  
  ## Storyline Improvement: https://libertycity.net/files/gta-san-andreas/232696-storyline-improvement.html
- greatly Improves the Story of San Andreas, I'll probably include this in the modpack automatically after I test it out myself.
+ Greatly Improves the Story of San Andreas, I'll probably include this in the modpack automatically after I test it out myself.
 
  ## Project Props V 4.2: https://github.com/user-grinch/Project-Props
  Not for me honestly, but if you'd like to use it go for it. May have a great impact performance though depending on your system specs.
